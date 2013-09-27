@@ -36,7 +36,7 @@
 
 <h3>To later include:</h3>
 
-<ul><li>Additional ArgumentErrors for bad inputs.</li>
+<ul><li>Additional ArgumentErrors for bad inputs.</li></ul>
 
 <h3>More Documentation:</h3>
 
