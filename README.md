@@ -23,7 +23,7 @@
 <ul><li>Returns an integer as an english number.</li>
   <li>See working sample here: http://evening-scrubland-1979.herokuapp.com/english_number</li>
 	<li>Works up to trillions.</li>
-  <li><code>1999.to_english == 'one thousand nine hundred and ninety nine'</code></li></ul>
+  <li><code>1999.to_english == 'one thousand nine hundred ninety nine'</code></li></ul>
 
 <li><code>Integer#add_commas</code></li>
 <ul><li>Returns an integer as a string with commas.</li>
