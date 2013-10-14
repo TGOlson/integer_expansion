@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = 'integer_expansion'
-  s.version     = '2.0.0'
+  s.version     = '2.0.1'
   s.date        = '2013-10-12'
   s.summary     = "Additional methods for the Ruby Integer class.
                    Includes: #to_roman, #to_old_roman, #!, #to_english and #add_commas"  
